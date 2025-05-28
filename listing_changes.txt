@@ -1,9 +1,21 @@
-Listing Changes - 2025-05-28 02:39:40
+Listing Changes - 2025-05-28 11:37:13
 =====================================
 
-NEW LISTINGS (3):
+NEW LISTINGS (6):
 -------------------
-1. 2021 Mazda CX-30 Select | $17,479 | 60,239 mi. | Morehead, KY | (293 mi. from 30605)
-2. 2020 Mazda CX-30 Select | $16,646 | 69,343 mi. | Fishers, IN | (439 mi. from 30605)
-3. 2021 Mazda CX-30 Select | $18,981 | 49,123 mi. | Orlando, FL | (395 mi. from 30605)
+1. 2021 Mazda CX-30 Select | $17,700 | 38,940 mi. | Marietta, GA | (66 mi. from 30605)
+2. 2020 Mazda CX-30 Select | $19,995 | 28,548 mi. | Memphis, TN | (385 mi. from 30605)
+3. 2023 Mazda CX-30 2.5 S Select Package | $20,000 | 50,515 mi. | Anderson, IN | (443 mi. from 30605)
+4. 2020 Mazda CX-30 Base | $17,998 | 36,608 mi. | Jacksonville, FL | (270 mi. from 30605)
+5. 2021 Mazda CX-30 Base | $17,950 | 59,845 mi. | Chantilly, VA | (476 mi. from 30605)
+6. 2021 Mazda CX-30 Premium | $17,900 | 72,416 mi. | Fayetteville, NC | (268 mi. from 30605)
 
+REMOVED LISTINGS (7):
+---------------------
+1. 2022 Mazda CX-30 2.5 S Select Package | $19,900 | 40,601 mi. | Duluth, GA | (44 mi. from 30605)
+2. 2021 Mazda CX-30 Select | $19,579 | 38,940 mi. | Marietta, GA | (66 mi. from 30605)
+3. 2020 Mazda CX-30 | $17,998 | 36,608 mi. | Jacksonville, FL | (270 mi. from 30605)
+4. 2020 Mazda CX-30 Select | $19,995 | 28,437 mi. | Memphis, TN | (385 mi. from 30605)
+5. 2023 Mazda CX-30 2.5 S Select Package | $19,500 | 50,515 mi. | Anderson, IN | (443 mi. from 30605)
+6. 2021 Mazda CX-30 2.5 S | $17,950 | 59,845 mi. | Chantilly, VA | (476 mi. from 30605)
+7. 2021 Mazda CX-30 Premium | $19,900 | 72,416 mi. | Fayetteville, NC | (268 mi. from 30605)
