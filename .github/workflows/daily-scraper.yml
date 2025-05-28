@@ -45,10 +45,11 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          git pull origin main
           git add listings.csv listing_changes.txt
           if ! git diff --cached --exit-code; then
             git commit -m "Daily scraper update - $(date '+%Y-%m-%d %H:%M:%S')"
-            git push
+            git push origin main
           else
             echo "No changes to commit"
           fi
