@@ -54,9 +54,23 @@ func compareListings(previous, current []Listing) ([]Listing, []Listing) {
 }
 
 func main() {
-	ctx, cancel := chromedp.NewContext(
-		context.Background(),
+	// Set up Chrome options for CI environments
+	opts := append(chromedp.DefaultExecAllocatorOptions[:],
+		chromedp.Flag("headless", true),
+		chromedp.Flag("no-sandbox", true),
+		chromedp.Flag("disable-dev-shm-usage", true),
+		chromedp.Flag("disable-gpu", true),
+		chromedp.Flag("no-first-run", true),
+		chromedp.Flag("no-default-browser-check", true),
+		chromedp.Flag("disable-background-timer-throttling", true),
+		chromedp.Flag("disable-renderer-backgrounding", true),
+		chromedp.Flag("disable-backgrounding-occluded-windows", true),
 	)
+
+	allocCtx, cancel := chromedp.NewExecAllocator(context.Background(), opts...)
+	defer cancel()
+
+	ctx, cancel := chromedp.NewContext(allocCtx)
 	defer cancel()
 
 	// Set a timeout
