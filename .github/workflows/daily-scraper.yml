@@ -1,0 +1,48 @@
+name: Daily Car Scraper
+
+on:
+  schedule:
+    # Run at 9 AM UTC every day (5 AM ET / 2 AM PT)
+    - cron: '0 9 * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+          
+      - name: Install dependencies
+        run: go mod download
+        
+      - name: Run scraper
+        run: go run scraper.go
+        
+      - name: Upload results as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: listings-${{ github.run_number }}
+          path: |
+            listings.csv
+            listing_changes.txt
+          retention-days: 30
+          
+      - name: Commit and push if changes found
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add listings.csv listing_changes.txt
+          if ! git diff --cached --exit-code; then
+            git commit -m "Daily scraper update - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
