@@ -2,7 +2,7 @@ name: Daily Car Scraper
 
 on:
   schedule:
-    # Run at 9:45 PM EST daily (2:45 AM UTC the next day, EST = UTC-5)
+    # Run at 6:30 AM/PM EST daily
     - cron: '30 11/23 * * *'
   # Allow manual trigger
   workflow_dispatch:
