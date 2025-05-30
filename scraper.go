@@ -78,7 +78,7 @@ func main() {
 	defer cancel()
 
 	// URL to scrape
-	url := "https://www.autotempest.com/results?make=mazda&model=cx30&zip=30605&radius=500&minprice=1000&maxprice=20000&minyear=2020&maxmiles=75000&transmission=auto"
+	url := "https://www.autotempest.com/results?make=toyota&model=camry&zip=30605&radius=500&maxprice=20000&minyear=2020&maxyear=2025&maxmiles=70000&transmission=auto"
 
 	// Variables to store our results
 	var titles, prices, mileages, cities, distances []string
