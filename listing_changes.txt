@@ -1,21 +1,46 @@
-Listing Changes - 2025-05-30 11:37:02
+Listing Changes - 2025-05-31 11:36:33
 =====================================
 
-NEW LISTINGS (7):
+NEW LISTINGS (20):
 -------------------
-1. 2022 Toyota Camry LE | $19,941 | 43,102 mi. | Duluth, GA | (44 mi. from 30605)
-2. 2020 Toyota Camry SE | $20,000 | 62,374 mi. | Vienna, VA | (483 mi. from 30605)
-3. 2022 Toyota Camry LE | $19,949 | 51,980 mi. | Seffner, FL | (417 mi. from 30605)
-4. 2022 Toyota Camry LE | $19,880 | 56,659 mi. | New Port Richey, FL | (397 mi. from 30605)
-5. 2021 Toyota Camry SE | $19,993 | 62,491 mi. | Hampton, VA | (453 mi. from 30605)
-6. 2023 Toyota Camry LE | $19,268 | 64,546 mi. | Tampa, FL | (418 mi. from 30605)
-7. 2022 Toyota Camry SE | $19,795 | 60,528 mi. | Fort Pierce, FL | (485 mi. from 30605)
+1. 2022 Toyota Camry LE Sedan 4D | $18,653 | 60,776 mi. | Haines City, FL | (418 mi. from 30605)
+2. 2022 Toyota Camry SE | $19,920 | 66,763 mi. | Marietta, GA | (66 mi. from 30605)
+3. 2023 Toyota Camry SE | $19,996 | 68,678 mi. | Marietta, GA | (66 mi. from 30605)
+4. 2021 Toyota Camry SE | $18,490 | 66,384 mi. | Jacksonville, FL | (270 mi. from 30605)
+5. 2020 Toyota Camry SE | $20,000 | 54,488 mi. | Jacksonville, FL | (270 mi. from 30605)
+6. 2021 Toyota Camry LE | $20,000 | 60,845 mi. | Woodbridge, VA | (470 mi. from 30605)
+7. 2021 Toyota Camry LE | $19,995 | 69,287 mi. | Chesapeake, VA | (442 mi. from 30605)
+8. 2020 Toyota Camry LE | $18,500 | 51,644 mi. | Wesley Chapel, FL | (402 mi. from 30605)
+9. 2022 Toyota Camry LE | $19,684 | 66,566 mi. | Sarasota, FL | (460 mi. from 30605)
+10. 2020 Toyota Camry LE | $19,177 | 44,220 mi. | Clearwater, FL | (415 mi. from 30605)
+11. 2023 Toyota Camry LE | $19,617 | 56,171 mi. | Clearwater, FL | (415 mi. from 30605)
+12. 2023 Toyota Camry LE | $19,885 | 62,248 mi. | Johnson City, TN | (174 mi. from 30605)
+13. 2023 Toyota Camry LE | $19,497 | 53,520 mi. | Cary, NC | (290 mi. from 30605)
+14. 2022 Toyota Camry LE | $19,842 | 67,061 mi. | Conyers, GA | (41 mi. from 30605)
+15. 2023 Toyota Camry LE | $18,797 | 55,879 mi. | Orlando, FL | (395 mi. from 30605)
+16. 2020 Toyota Camry Hybrid LE | $19,583 | 60,367 mi. | Jacksonville, FL | (270 mi. from 30605)
+17. 2020 Toyota Camry LE | $19,868 | 49,196 mi. | Raleigh, NC | (295 mi. from 30605)
+18. 2020 Toyota Camry LE | $18,677 | 52,293 mi. | Sanford, FL | (378 mi. from 30605)
+19. 2022 Toyota Camry SE | $19,741 | 44,661 mi. | Tampa, FL | (418 mi. from 30605)
+20. 2022 Toyota Camry SE | $19,890 | 57,097 mi. | St. Petersburg, FL | (431 mi. from 30605)
 
-REMOVED LISTINGS (6):
+REMOVED LISTINGS (18):
 ---------------------
-1. 2022 Toyota Camry LE | $19,994 | 51,980 mi. | Seffner, FL | (417 mi. from 30605)
-2. 2020 Toyota Camry LE | $18,457 | 61,032 mi. | Sanford, FL | (378 mi. from 30605)
-3. 2021 Toyota Camry LE | $19,600 | 66,785 mi. | St. Louis, MO | (500 mi. from 30605)
-4. 2023 Toyota Camry LE | $19,690 | 64,546 mi. | Tampa, FL | (418 mi. from 30605)
-5. 2023 Toyota Camry LE | $20,000 | 44,803 mi. | Woodbridge, VA | (470 mi. from 30605)
-6. 2023 Toyota Camry LE | $17,988 | 49,650 mi. | Brandon, FL | (422 mi. from 30605)
+1. 2023 Toyota Camry LE Sedan 4D | $19,912 | 56,171 mi. | Haines City, FL | (418 mi. from 30605)
+2. 2021 Toyota Camry SE | $19,999 | 67,303 mi. | Marietta, GA | (66 mi. from 30605)
+3. 2020 Toyota Camry LE | $18,995 | 51,644 mi. | Wesley Chapel, FL | (402 mi. from 30605)
+4. 2020 Toyota Camry LE | $19,277 | 44,220 mi. | Clearwater, FL | (415 mi. from 30605)
+5. 2023 Toyota Camry LE | $19,497 | 52,165 mi. | Cary, NC | (290 mi. from 30605)
+6. 2023 Toyota Camry SE | $19,996 | 58,624 mi. | Clearwater, FL | (415 mi. from 30605)
+7. 2023 Toyota Camry LE | $19,597 | 53,520 mi. | Cary, NC | (290 mi. from 30605)
+8. 2020 Toyota Camry SE | $19,495 | 56,005 mi. | Orlando, FL | (395 mi. from 30605)
+9. 2023 Toyota Camry LE | $19,886 | 56,086 mi. | Rock Hill, SC | (151 mi. from 30605)
+10. 2023 Toyota Camry LE | $18,399 | 65,652 mi. | Seffner, FL | (417 mi. from 30605)
+11. 2023 Toyota Camry LE | $19,881 | 51,162 mi. | Wesley Chapel, FL | (402 mi. from 30605)
+12. 2020 Toyota Camry SE | $19,995 | 62,640 mi. | Portsmouth, VA | (447 mi. from 30605)
+13. 2022 Toyota Camry LE | $19,899 | 67,061 mi. | Conyers, GA | (41 mi. from 30605)
+14. 2020 Toyota Camry LE | $19,868 | 49,186 mi. | Raleigh, NC | (295 mi. from 30605)
+15. 2020 Toyota Camry LE | $18,777 | 52,293 mi. | Sanford, FL | (378 mi. from 30605)
+16. 2022 Toyota Camry SE | $19,790 | 57,097 mi. | St. Petersburg, FL | (431 mi. from 30605)
+17. 2021 Toyota Camry LE | $19,600 | 62,296 mi. | Mobile, AL | (353 mi. from 30605)
+18. 2022 Toyota Camry SE | $19,795 | 60,528 mi. | Fort Pierce, FL | (485 mi. from 30605)
