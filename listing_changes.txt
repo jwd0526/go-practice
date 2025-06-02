@@ -1,15 +1,19 @@
-Listing Changes - 2025-06-01 11:36:11
+Listing Changes - 2025-06-02 11:37:30
 =====================================
 
-NEW LISTINGS (4):
+NEW LISTINGS (5):
 -------------------
-1. 2023 Mazda Mazda3 2.5 S Select | $18,897 | 52,540 mi. | Nashville, TN | (246 mi. from 30605)
-2. 2021 Mazda Mazda3 FWD w/Select Package | $17,494 | 67,394 mi. | Evansville, IN | (362 mi. from 30605)
-3. 2023 Mazda Mazda3 2.5 S Select | $17,699 | 36,252 mi. | Florence, KY | (355 mi. from 30605)
-4. 2022 Mazda Mazda3 Preferred | $19,400 | 50,548 mi. | Silver Spring, MD | (497 mi. from 30605)
+1. 2023 Mazda Mazda3 2.5 S Select | $18,897 | 49,799 mi. | Duluth, GA | (44 mi. from 30605)
+2. 2021 Mazda Mazda3 FWD w/Preferred Package | $17,525 | 32,700 mi. | Fort Pierce, FL | (485 mi. from 30605)
+3. 2022 Mazda Mazda3 FWD w/Select Package | $19,995 | 29,982 mi. | Columbus, OH | (417 mi. from 30605)
+4. 2021 Mazda Mazda3 Sedan Select | $19,998 | 51,860 mi. | Buford, GA | (36 mi. from 30605)
+5. 2021 Mazda Mazda3 Select | $18,995 | 49,970 mi. | Zephyrhills, FL | (402 mi. from 30605)
 
-REMOVED LISTINGS (3):
+REMOVED LISTINGS (6):
 ---------------------
-1. 2023 Mazda Mazda3 2.5 S Select | $19,197 | 52,540 mi. | Nashville, TN | (246 mi. from 30605)
-2. 2021 Mazda Mazda3 FWD w/Select Package | $17,793 | 67,394 mi. | Evansville, IN | (362 mi. from 30605)
-3. 2022 Mazda Mazda3 FWD w/Preferred Package | $19,400 | 50,548 mi. | Silver Spring, MD | (497 mi. from 30605)
+1. 2023 Mazda Mazda3 2.5 S Select | $19,297 | 49,799 mi. | Duluth, GA | (44 mi. from 30605)
+2. 2022 Mazda Mazda3 FWD w/Select Package | $19,995 | 29,977 mi. | Columbus, OH | (417 mi. from 30605)
+3. 2021 Mazda Mazda3 Select | $19,998 | 51,860 mi. | Buford, GA | (36 mi. from 30605)
+4. 2021 Mazda Mazda3 Select | $19,998 | 48,382 mi. | Mobile, AL | (353 mi. from 30605)
+5. 2022 Mazda Mazda3 Preferred | $19,400 | 50,548 mi. | Silver Spring, MD | (497 mi. from 30605)
+6. 2022 Mazda Mazda3 S | $19,000 | 49,903 mi. | Silver Spring, MD | (497 mi. from 30605)
