@@ -1,19 +1,16 @@
-Listing Changes - 2025-08-04 11:41:30
+Listing Changes - 2025-08-05 11:41:11
 =====================================
 
-NEW LISTINGS (5):
+NEW LISTINGS (6):
 -------------------
-1. 2023 Mazda Mazda3 2.5 S | $19,420 | 51,743 mi. | Kennesaw, GA | (70 mi. from 30605)
-2. 2022 Mazda Mazda3 FWD w/Select Package | $15,650 | 67,703 mi. | Holiday, FL | (401 mi. from 30605)
-3. 2021 Mazda Mazda3 Select | $19,998 | 41,818 mi. | Wilmington, NC | (314 mi. from 30605)
-4. 2021 Mazda Mazda3 Preferred | $19,500 | 50,886 mi. | Jacksonville, FL | (270 mi. from 30605)
-5. 2022 Mazda Mazda3 Select | $16,990 | 54,611 mi. | Orlando, FL | (395 mi. from 30605)
+1. 2024 Mazda Mazda3 2.5 S Select Sport | $18,995 | 17,800 mi. | Tampa, FL | (418 mi. from 30605)
+2. 2021 Mazda Mazda3 FWD | $17,732 | 40,094 mi. | Matthews, NC | (173 mi. from 30605)
+3. 2021 Mazda Mazda3 FWD | $17,726 | 47,425 mi. | Charlotte, NC | (169 mi. from 30605)
+4. 2022 Mazda Mazda3 FWD w/Select Package | $19,490 | 36,516 mi. | Murfreesboro, TN | (215 mi. from 30605)
+5. 2022 Mazda Mazda3 2.5 S | $19,998 | 49,551 mi. | Raleigh, NC | (298 mi. from 30605)
+6. 2021 Mazda Mazda3 Sedan S | $18,998 | 57,710 mi. | Charlotte, NC | (169 mi. from 30605)
 
-REMOVED LISTINGS (6):
+REMOVED LISTINGS (2):
 ---------------------
-1. 2023 Mazda Mazda3 2.5 S | $19,720 | 51,743 mi. | Kennesaw, GA | (70 mi. from 30605)
-2. 2023 Mazda Mazda3 FWD w/Preferred Package | $19,995 | 59,422 mi. | Leesburg, VA | (481 mi. from 30605)
-3. 2022 Mazda Mazda3 FWD w/Select Package | $17,795 | 35,435 mi. | Orlando, FL | (395 mi. from 30605)
-4. 2022 Mazda Mazda3 FWD w/Select Package | $15,998 | 67,703 mi. | Holiday, FL | (401 mi. from 30605)
-5. 2021 Mazda Mazda3 2.5 S | $18,998 | 57,710 mi. | Charlotte, NC | (169 mi. from 30605)
-6. 2021 Mazda Mazda3 Preferred | $19,500 | 50,876 mi. | Jacksonville, FL | (270 mi. from 30605)
+1. 2021 Mazda Mazda3 FWD | $17,732 | 39,555 mi. | Matthews, NC | (173 mi. from 30605)
+2. 2024 Mazda Mazda3 2.5 S Select Sport | $17,921 | 31,656 mi. | Brandon, FL | (422 mi. from 30605)
