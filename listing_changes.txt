@@ -1,21 +1,26 @@
-Listing Changes - 2025-08-10 11:37:31
+Listing Changes - 2025-08-12 11:38:51
 =====================================
 
-NEW LISTINGS (6):
+NEW LISTINGS (8):
 -------------------
-1. 2021 Mazda Mazda3 FWD | $17,297 | 42,625 mi. | Birmingham, AL | (198 mi. from 30605)
-2. 2021 Mazda Mazda3 FWD w/Select Package | $18,491 | 36,437 mi. | Jacksonville, FL | (270 mi. from 30605)
-3. 2024 Mazda Mazda3 FWD w/Preferred Package | $19,889 | 25,395 mi. | Indian Trail, NC | (173 mi. from 30605)
-4. 2024 Mazda Mazda3 Select Sport | $19,998 | 13,175 mi. | Orlando, FL | (395 mi. from 30605)
-5. 2023 Mazda Mazda3 Select | $18,336 | 59,234 mi. | Chesapeake, VA | (442 mi. from 30605)
-6. 2023 Mazda Mazda3 Select | $19,997 | 46,115 mi. | Salisbury, NC | (203 mi. from 30605)
+1. 2024 Mazda Mazda3 FWD w/Preferred Package | $19,499 | 30,612 mi. | Nashville, TN | (246 mi. from 30605)
+2. 2021 Mazda Mazda3 Select | $17,998 | 60,673 mi. | Clermont, FL | (386 mi. from 30605)
+3. 2024 Mazda Mazda3 FWD w/Preferred Package | $19,887 | 25,395 mi. | Indian Trail, NC | (173 mi. from 30605)
+4. 2021 Mazda Mazda3 2.0 | $18,998 | 24,846 mi. | Kennesaw, GA | (70 mi. from 30605)
+5. 2021 Mazda Mazda3 Select | $19,998 | 53,283 mi. | Columbus, OH | (417 mi. from 30605)
+6. 2023 Mazda Mazda3 Preferred | $19,796 | 50,490 mi. | Yulee, FL | (253 mi. from 30605)
+7. 2021 Mazda Mazda3 Sedan Select | $19,998 | 41,818 mi. | Fayetteville, NC | (268 mi. from 30605)
+8. 2023 Mazda Mazda3 Select | $17,934 | 50,463 mi. | Salisbury, NC | (203 mi. from 30605)
 
-REMOVED LISTINGS (7):
+REMOVED LISTINGS (10):
 ---------------------
-1. 2024 Mazda Mazda3 FWD w/Preferred Package | $19,700 | 25,569 mi. | Cumming, GA | (46 mi. from 30605)
-2. 2021 Mazda Mazda3 FWD | $17,697 | 42,625 mi. | Birmingham, AL | (198 mi. from 30605)
-3. 2021 Mazda Mazda3 FWD w/Premium Package | $19,989 | 21,580 mi. | Maysville, KY | (323 mi. from 30605)
-4. 2024 Mazda Mazda3 FWD w/Preferred Package | $19,314 | 25,395 mi. | Indian Trail, NC | (173 mi. from 30605)
-5. 2023 Mazda Mazda3 2.5 S Select | $19,997 | 46,115 mi. | Salisbury, NC | (203 mi. from 30605)
-6. 2021 Mazda Mazda3 2.0 | $18,998 | 24,846 mi. | Kennesaw, GA | (70 mi. from 30605)
-7. 2023 Mazda Mazda3 Select | $18,536 | 59,234 mi. | Chesapeake, VA | (442 mi. from 30605)
+1. 2023 Mazda Mazda3 FWD | $19,756 | 27,246 mi. | Pensacola, FL | (329 mi. from 30605)
+2. 2021 Mazda Mazda3 FWD | $19,271 | 37,063 mi. | Port Richey, FL | (393 mi. from 30605)
+3. 2024 Mazda Mazda3 FWD w/Preferred Package | $19,889 | 25,395 mi. | Indian Trail, NC | (173 mi. from 30605)
+4. 2023 Mazda Mazda3 2.5 S Select | $19,128 | 58,488 mi. | Jacksonville, FL | (270 mi. from 30605)
+5. 2024 MAZDA MAZDA3 2.5 S Preferred Sedan 4D | $19,406 | 28,590 mi. | Haines City, FL | (418 mi. from 30605)
+6. 2021 MAZDA MAZDA3 Select Sedan 4D | $19,990 | 62,047 mi. | Haines City, FL | (418 mi. from 30605)
+7. 2021 Mazda Mazda3 2.5 S | $19,998 | 33,408 mi. | Kennesaw, GA | (70 mi. from 30605)
+8. 2023 Mazda Mazda3 Select | $19,997 | 46,115 mi. | Salisbury, NC | (203 mi. from 30605)
+9. 2022 Mazda Mazda3 Select | $16,990 | 54,611 mi. | Orlando, FL | (395 mi. from 30605)
+10. 2023 Mazda Mazda3 Select | $17,992 | 50,463 mi. | Salisbury, NC | (203 mi. from 30605)
