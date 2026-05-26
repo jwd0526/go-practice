@@ -1,28 +1,30 @@
-Listing Changes - 2026-05-25 14:20:16
+Listing Changes - 2026-05-26 14:12:39
 =====================================
 
-NEW LISTINGS (11):
+NEW LISTINGS (12):
 -------------------
+1. 2022 Mazda Mazda3 FWD w/Select Package | $18,695 | 43,129 mi. | Birmingham, AL | (198 mi. from 30605)
+2. 2024 Mazda Mazda3 2.5 S Select Sport FWD | $17,965 | 28,430 mi. | Port Charlotte, FL | (488 mi. from 30605)
+3. 2025 Mazda Mazda3 FWD w/Preferred Package | $18,995 | 14,467 mi. | Manassas, VA | (466 mi. from 30605)
+4. 2024 Mazda Mazda3 Select Sport | $18,999 | 50,613 mi. | Anderson, SC | (58 mi. from 30605)
+5. 2021 Mazda Mazda3 Hatchback Select | $18,998 | 65,004 mi. | Memphis, TN | (374 mi. from 30605)
+6. 2024 Mazda Mazda3 Select Sport | $19,475 | 46,208 mi. | Saint Louis, MO | (500 mi. from 30605)
+7. 2024 Mazda Mazda3 Select Sport | $19,812 | 55,023 mi. | Tuscaloosa, AL | (244 mi. from 30605)
+8. 2024 Mazda Mazda3 Select Sport | $19,996 | 51,616 mi. | Tuscaloosa, AL | (244 mi. from 30605)
+9. 2023 Mazda Mazda3 Select | $18,099 | 66,329 mi. | Fort Walton Beach, FL | (308 mi. from 30605)
+10. 2021 Mazda Mazda3 S | $18,478 | 44,407 mi. | Grove City, OH | (409 mi. from 30605)
+11. 2021 Mazda Mazda3 Select | $18,995 | 49,970 mi. | Zephyrhills, FL | (402 mi. from 30605)
+12. 2021 Mazda Mazda3 Sedan S | $19,998 | 53,234 mi. | Laurel, MD | 
+
+REMOVED LISTINGS (10):
+---------------------
 1. 2022 Mazda Mazda3 FWD w/Select Package | $19,596 | 43,129 mi. | Birmingham, AL | (198 mi. from 30605)
 2. 2024 Mazda Mazda3 2.5 S Select Sport FWD | $17,965 | 28,416 mi. | Port Charlotte, FL | (488 mi. from 30605)
-3. 2022 Mazda Mazda3 FWD w/Preferred Package | $19,394 | 57,420 mi. | Hendersonville, NC | (108 mi. from 30605)
-4. 2024 Mazda Mazda3 FWD w/Select Package | $19,999 | 49,177 mi. | Tampa, FL | (418 mi. from 30605)
-5. 2023 Mazda Mazda3 FWD | $19,400 | 57,693 mi. | Sanford, FL | (378 mi. from 30605)
-6. 2024 Mazda Mazda3 2.5 S Select Sport | $19,944 | 57,077 mi. | Louisville, KY | (323 mi. from 30605)
-7. 2021 Mazda Mazda3 Select | $18,998 | 65,004 mi. | Memphis, TN | (385 mi. from 30605)
-8. 2021 Mazda Mazda3 Premium | $19,500 | 49,534 mi. | Fredricksburg, VA | (446 mi. from 30605)
-9. 2021 Mazda Mazda3 2.5S FWD | $17,451 | 19,030 mi. | Miami, FL | 
-10. 2023 Mazda Mazda3 2.5 S Select | $19,950 | 55,267 mi. | Stanton, CA | 
-11. 2024 Mazda Mazda3 FWD w/Preferred Package | $15,995 | 32,900 mi. | Lakeside, CA | 
-
-REMOVED LISTINGS (9):
----------------------
-1. 2024 Mazda Mazda3 2.5 S Select Sport FWD | $19,566 | 28,416 mi. | Port Charlotte, FL | (488 mi. from 30605)
-2. 2022 Mazda Mazda3 FWD w/Select Package | $17,913 | 63,627 mi. | Richmond, VA | (415 mi. from 30605)
-3. 2021 Mazda Mazda3 FWD w/Premium Package | $19,500 | 49,534 mi. | Fredericksburg, VA | (446 mi. from 30605)
-4. 2023 Mazda Mazda3 FWD | $19,488 | 57,693 mi. | Sanford, FL | (378 mi. from 30605)
-5. 2023 Mazda Mazda3 2.5 S Select | $17,076 | 59,064 mi. | Milford, OH | (364 mi. from 30605)
-6. 2022 Mazda Mazda3 FWD w/Preferred Package | $16,259 | 9,652 mi. | Waldorf, MD | (485 mi. from 30605)
-7. 2021 Mazda Mazda3 Hatchback Select | $18,998 | 65,004 mi. | Memphis, TN | (374 mi. from 30605)
-8. 2021 Mazda Mazda3 Sedan S | $19,998 | 53,234 mi. | Laurel, MD | 
-9. 2021 MAZDA MAZDA3 Select Sedan 4D | $19,990 | 45,123 mi. | Tooele, UT | 
+3. 2025 Mazda Mazda3 FWD w/Preferred Package | $19,995 | 14,467 mi. | Manassas, VA | (466 mi. from 30605)
+4. 2021 Mazda Mazda3 Select | $18,998 | 65,004 mi. | Memphis, TN | (385 mi. from 30605)
+5. 2021 Mazda Mazda3 Premium | $19,500 | 49,534 mi. | Fredricksburg, VA | (446 mi. from 30605)
+6. 2023 Mazda Mazda3 Preferred | $19,999 | 15,315 mi. | Clearwater, FL | (415 mi. from 30605)
+7. 2023 Mazda Mazda3 Select | $18,990 | 60,449 mi. | Frankfort, KY | (304 mi. from 30605)
+8. 2021 Mazda Mazda3 2.5 S | $16,617 | 40,987 mi. | Jacksonville, FL | (270 mi. from 30605)
+9. 2021 Mazda Mazda3 2.5 S | $18,599 | 42,355 mi. | Vero Beach, FL | (471 mi. from 30605)
+10. 2024 Mazda Mazda3 FWD w/Preferred Package | $15,995 | 32,900 mi. | Lakeside, CA | 
