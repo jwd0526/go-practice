@@ -1,36 +1,31 @@
-Listing Changes - 2026-06-04 14:13:05
+Listing Changes - 2026-06-05 14:05:30
 =====================================
 
-NEW LISTINGS (14):
+NEW LISTINGS (10):
 -------------------
-1. 2024 Mazda Mazda3 FWD w/Preferred Package | $17,878 | 56,553 mi. | Norcross, GA | (46 mi. from 30605)
-2. 2023 Mazda Mazda3 FWD w/Preferred Package | $19,990 | 38,974 mi. | Whiteland, IN | (415 mi. from 30605)
-3. 2021 Mazda Mazda3 FWD w/Preferred Package | $18,655 | 59,179 mi. | Sarasota, FL | (460 mi. from 30605)
-4. 2024 Mazda Mazda3 FWD w/Select Package | $19,746 | 48,391 mi. | Longwood, FL | (382 mi. from 30605)
-5. 2025 Mazda Mazda3 FWD w/Select Package | $18,998 | 20,914 mi. | Fort Pierce, FL | (485 mi. from 30605)
-6. 2024 Mazda Mazda3 2.5 S Select Sport | $19,750 | 61,898 mi. | Temple Hills, MD | (491 mi. from 30605)
-7. 2023 Mazda Mazda3 Carbon Edition | $18,888 | 57,693 mi. | Sanford, FL | (378 mi. from 30605)
-8. 2024 Mazda Mazda3 2.5 S Select Sport | $19,721 | 42,267 mi. | Grand Prairie, TX | 
-9. 2022 Mazda Mazda3 FWD | $19,485 | 14,000 mi. | Kirkland, WA | 
-10. 2024 Mazda Mazda3 2.5 S Select Sport | $18,948 | 56,136 mi. | Cuyahoga Falls, OH | 
-11. 2021 Mazda Mazda3 2.5S FWD | $17,451 | 19,033 mi. | Miami, FL | 
-12. 2021 Mazda Mazda3 FWD w/Select Package | $18,697 | 70,955 mi. | Mesa, AZ | 
-13. 2021 Mazda Mazda3 2.5 Turbo AWD | $17,874 | 29,810 mi. | Burnsville, MN | 
-14. 2024 Mazda Mazda3 2.5 S Select Sport | $18,888 | 49,315 mi. | Edison, NJ | 
+1. 2024 Mazda Mazda3 2.5 S Select Sport | $19,642 | 51,210 mi. | Asheville, NC | (122 mi. from 30605)
+2. 2024 Mazda Mazda3 FWD w/Select Package | $19,999 | 49,247 mi. | Tampa, FL | (418 mi. from 30605)
+3. 2021 Mazda Mazda3 FWD w/Select Package | $15,995 | 53,431 mi. | Dumfries, VA | (464 mi. from 30605)
+4. 2021 Mazda Mazda3 FWD w/Select Package | $16,495 | 71,147 mi. | Dade City, FL | (393 mi. from 30605)
+5. 2022 Mazda Mazda3 Select | $19,995 | 32,763 mi. | Duluth, GA | (44 mi. from 30605)
+6. 2023 MAZDA MAZDA3 Preferred Sedan 4D | $19,990 | 73,526 mi. | Fort Worth, TX | 
+7. 2025 Mazda Mazda3 2.5 S Select Sport | $19,500 | 408 mi. | Yonkers, NY | 
+8. 2024 Mazda Mazda3 2.5 S Select Sport | $19,721 | 50,122 mi. | San Antonio, TX | 
+9. 2022 Mazda Mazda3 AWD w/Preferred Package | $18,899 | 66,564 mi. | Santa Ana, CA | 
+10. 2024 Mazda Mazda3 FWD w/Preferred Package | $19,995 | 47,093 mi. | Chicago, IL | 
 
-REMOVED LISTINGS (14):
+REMOVED LISTINGS (13):
 ---------------------
-1. 2024 Mazda Mazda3 FWD w/Preferred Package | $17,000 | 56,553 mi. | Norcross, GA | (46 mi. from 30605)
-2. 2024 Mazda Mazda3 FWD w/Select Package | $19,746 | 48,388 mi. | Longwood, FL | (382 mi. from 30605)
-3. 2022 Mazda Mazda3 FWD w/Preferred Package | $18,942 | 57,420 mi. | Hendersonville, NC | (108 mi. from 30605)
-4. 2023 Mazda Mazda3 FWD | $18,888 | 57,693 mi. | Sanford, FL | (378 mi. from 30605)
-5. 2025 Mazda Mazda3 FWD w/Select Package | $19,498 | 20,914 mi. | Fort Pierce, FL | (485 mi. from 30605)
-6. 2021 Mazda Mazda3 FWD w/Select Package | $15,995 | 53,431 mi. | Dumfries, VA | (464 mi. from 30605)
-7. 2024 Mazda Mazda3 2.5 S | $19,000 | 44,306 mi. | Daytona Beach, FL | (341 mi. from 30605)
-8. 2024 Mazda Mazda3 2.5 S Select Sport | $19,948 | 56,136 mi. | Cuyahoga Falls, OH | 
-9. 2024 Mazda Mazda3 2.5 S Select Sport | $19,996 | 42,341 mi. | Thornton, CO | 
-10. 2024 Mazda Mazda3 2.5 S Select Sport | $19,695 | 53,305 mi. | Henderson, NV | 
-11. 2021 Mazda Mazda3 FWD w/Premium Package | $19,488 | 53,052 mi. | Montclair, CA | 
-12. 2021 Mazda Mazda3 FWD w/Select Package | $18,017 | 52,246 mi. | Manhattan Beach, CA | 
-13. 2021 Mazda Mazda3 2.5S FWD | $17,451 | 19,030 mi. | Miami, FL | 
-14. 2021 Mazda Mazda3 FWD w/Select Package | $19,126 | 70,955 mi. | Mesa, AZ | 
+1. 2022 Mazda Mazda3 FWD w/Select Package | $19,995 | 32,763 mi. | Duluth, GA | (44 mi. from 30605)
+2. 2024 Mazda Mazda3 FWD w/Select Package | $19,746 | 48,391 mi. | Longwood, FL | (382 mi. from 30605)
+3. 2024 Mazda Mazda3 FWD w/Select Package | $19,936 | 49,646 mi. | Longwood, FL | (382 mi. from 30605)
+4. 2024 Mazda Mazda3 FWD w/Select Package | $19,999 | 49,177 mi. | Tampa, FL | (418 mi. from 30605)
+5. 2024 Mazda Mazda3 2.5 S Select Sport | $19,385 | 40,369 mi. | Maysville, KY | (323 mi. from 30605)
+6. 2024 Mazda Mazda3 2.5 S Select Sport | $19,750 | 61,898 mi. | Temple Hills, MD | (491 mi. from 30605)
+7. 2021 Mazda Mazda3 Select | $14,995 | 46,185 mi. | Marietta, GA | (66 mi. from 30605)
+8. 2023 Mazda Mazda3 Carbon Edition | $18,888 | 57,693 mi. | Sanford, FL | (378 mi. from 30605)
+9. 2021 Mazda Mazda3 2.5S FWD | $17,451 | 19,033 mi. | Miami, FL | 
+10. 2021 Mazda Mazda3 FWD w/Select Package | $18,697 | 70,955 mi. | Mesa, AZ | 
+11. 2021 Mazda Mazda3 2.5 Turbo AWD | $19,594 | 48,640 mi. | Orem, UT | 
+12. 2021 Mazda Mazda3 2.5 Turbo AWD | $17,874 | 29,810 mi. | Burnsville, MN | 
+13. 2024 Mazda Mazda3 2.5 S Select Sport | $18,888 | 49,315 mi. | Edison, NJ | 
